@@ -5,7 +5,7 @@
 	setopt share_history # setopt inc_append_history
 
 # Aliases
-
+alias ll='ls -al'
 
 # Settings
 	export VISUAL=vim
